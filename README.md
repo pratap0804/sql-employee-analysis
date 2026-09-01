@@ -19,7 +19,23 @@ This project solves 6 real business questions using SQL concepts.
 6. Department-wise count & average salary
 
 ### Screenshots
-Query results attached.
+### Q1
+![Q1](Screenshot%20Q1_max_salary.png)
+
+### Q2
+![Q2](Screenshot%20Q2_Dept_more_than_1.png)
+
+### Q3
+![Q3](Screenshot%20Q3_avg_salary.png)
+
+### Q4
+![Q4](Screenshot%20Q4_Hyderabad_employees.png)
+
+### Q5
+![Q5](Screenshot%20Q5_Employee_Dept_join.png)
+
+### Q6
+![Q6](Screenshot%20Q6_Dept_Count_avg.png)
 
 ### Author: Pratap
 GitHub: pratap0804
